@@ -10,7 +10,7 @@ const bool pressed = true;
 const bool not_pressed = false;
 const bool hw_positif = false;
 const bool hw_bombarde = true;
-const unsigned long hw_ms = 15;
+const unsigned long hw_ms = 75;
 
 
 /*

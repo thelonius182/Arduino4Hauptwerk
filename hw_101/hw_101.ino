@@ -3,7 +3,7 @@
 // Adapted from: https://github.com/Hecsall/arduino-midi-footswitch
 //               https://www.arduino.cc/en/Reference/MIDIUSB
 //
-// Version 2023-03-26.1
+// Version 2023-03-28.1
 // ------------------------------------------------------------------
 
 #include "MIDIUSB.h"
